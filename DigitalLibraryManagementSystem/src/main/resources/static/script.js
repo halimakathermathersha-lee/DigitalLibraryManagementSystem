@@ -1,5 +1,5 @@
 
-const apiUrl = "api/book";
+const apiUrl = "api/books";
 
 const bookTableBody = document.getElementById("bookTableBody");
 const totalBooks = document.getElementById("totalBooks");
