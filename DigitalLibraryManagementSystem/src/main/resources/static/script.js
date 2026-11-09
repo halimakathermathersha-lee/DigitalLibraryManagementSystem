@@ -1,5 +1,5 @@
 
-const apiUrl = "http://localhost:8087/api/books";
+const apiUrl = "api/boo";
 
 const bookTableBody = document.getElementById("bookTableBody");
 const totalBooks = document.getElementById("totalBooks");
